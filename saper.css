@@ -1,0 +1,17 @@
+#tablica{
+  border: 1px ;
+  padding: 15px;
+}
+
+tr, td{
+  border: 1px solid green;
+  height : 10px;
+  width : 10px;
+  
+  text-align: center;
+}
+
+button{
+  
+}
+/*<div id="tablica"></div>*/
